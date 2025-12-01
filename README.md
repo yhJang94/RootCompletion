@@ -5,7 +5,7 @@ RootCompletion (WACV 2026 — Early Accept)
 Official implementation coming soon. <br>
 This repository will contain the code for our WACV 2026 (Early Accept) paper:
 
-“Root Completion from Intraoral Scans using Diffusion with Perturbed Patch Generator (PPG)”
+“Root Completion from Intraoral Scans using Diffusion with Patch Perturbation”
 
 We are cleaning the code and preparing the release.
 Please stay tuned!
