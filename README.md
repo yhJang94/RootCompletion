@@ -1,6 +1,6 @@
 RootCompletion (WACV 2026 — Early Accept)
 
-<img src="figures/architecture.png" width="100%">
+<img src="figures/overview.jpg" width="100%">
 
 Official implementation coming soon.
 This repository will contain the code for our WACV 2026 (Early Accept) paper:
